@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48522" started-at="2020-08-26T05:37:07Z" finished-at="2020-08-26T05:37:55Z">
+    <groups>
+      <group name="test">
+        <method signature="GoogleTest.test1()[pri:4, instance:ashwini.GoogleTest@7671cb68]" name="test1" class="ashwini.GoogleTest"/>
+        <method signature="GoogleTest.test2()[pri:5, instance:ashwini.GoogleTest@7671cb68]" name="test2" class="ashwini.GoogleTest"/>
+        <method signature="GoogleTest.verifyTest()[pri:3, instance:ashwini.GoogleTest@7671cb68]" name="verifyTest" class="ashwini.GoogleTest"/>
+      </group> <!-- test -->
+      <group name="title">
+        <method signature="GoogleTest.verifyGoogletitle()[pri:1, instance:ashwini.GoogleTest@7671cb68]" name="verifyGoogletitle" class="ashwini.GoogleTest"/>
+      </group> <!-- title -->
+    </groups>
+    <test name="Test" duration-ms="48522" started-at="2020-08-26T05:37:07Z" finished-at="2020-08-26T05:37:55Z">
+      <class name="ashwini.GoogleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ashwini.GoogleTest@7671cb68]" name="setup" is-config="true" duration-ms="14245" started-at="2020-08-26T11:07:07Z" finished-at="2020-08-26T11:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyGoogletitle()[pri:1, instance:ashwini.GoogleTest@7671cb68]" name="verifyGoogletitle" duration-ms="37" started-at="2020-08-26T11:07:21Z" finished-at="2020-08-26T11:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogletitle -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:ashwini.GoogleTest@7671cb68]" name="TearDown" is-config="true" duration-ms="981" started-at="2020-08-26T11:07:21Z" finished-at="2020-08-26T11:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ashwini.GoogleTest@7671cb68]" name="setup" is-config="true" duration-ms="13206" started-at="2020-08-26T11:07:22Z" finished-at="2020-08-26T11:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTest()[pri:3, instance:ashwini.GoogleTest@7671cb68]" name="verifyTest" duration-ms="187" started-at="2020-08-26T11:07:35Z" finished-at="2020-08-26T11:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:ashwini.GoogleTest@7671cb68]" name="TearDown" is-config="true" duration-ms="1014" started-at="2020-08-26T11:07:35Z" finished-at="2020-08-26T11:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ashwini.GoogleTest@7671cb68]" name="setup" is-config="true" duration-ms="8663" started-at="2020-08-26T11:07:36Z" finished-at="2020-08-26T11:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:4, instance:ashwini.GoogleTest@7671cb68]" name="test1" duration-ms="0" started-at="2020-08-26T11:07:45Z" finished-at="2020-08-26T11:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:ashwini.GoogleTest@7671cb68]" name="TearDown" is-config="true" duration-ms="720" started-at="2020-08-26T11:07:45Z" finished-at="2020-08-26T11:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ashwini.GoogleTest@7671cb68]" name="setup" is-config="true" duration-ms="8735" started-at="2020-08-26T11:07:46Z" finished-at="2020-08-26T11:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:5, instance:ashwini.GoogleTest@7671cb68]" name="test2" duration-ms="0" started-at="2020-08-26T11:07:54Z" finished-at="2020-08-26T11:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:ashwini.GoogleTest@7671cb68]" name="TearDown" is-config="true" duration-ms="686" started-at="2020-08-26T11:07:54Z" finished-at="2020-08-26T11:07:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- ashwini.GoogleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
